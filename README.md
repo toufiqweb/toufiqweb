@@ -23,7 +23,7 @@ I enjoy transforming ideas into real digital experiences using modern JavaScript
 ## 🧰 Tech Stack
 
 <p>Languages & Tools</p>
-<p align="left">
+<p align="left style="display:flex; gap:10px; align-items:center;>
 
 <img src="https://skillicons.dev/icons?i=html" height="50"/>
 <img src="https://skillicons.dev/icons?i=css" height="50"/>
@@ -51,7 +51,7 @@ I enjoy transforming ideas into real digital experiences using modern JavaScript
 </p>
 
 ##  Socials:
-<p align="left">
+<p align="left"  style="display:flex; gap:10px; align-items:center;>
 
 <a href="https://www.linkedin.com/in/toufiq-alahe-dev/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
