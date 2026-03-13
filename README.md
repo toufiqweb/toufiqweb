@@ -1,7 +1,9 @@
 
 ![Banner](cover.png)
 
-<h1 align="center">Hi 👋, I'm Toufiq Alahe  </h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&width=600&lines=Hi+👋,+I'm+Toufiq+Alahe;Frontend+Web+Developer;React+Enthusiast" alt="Typing Animation"/>
+</h1>
 <h3 align="center"> Web Developer | React Enthusiast | Passionate About Modern Web Applications</h3>
 
 <p align="center">
@@ -51,32 +53,24 @@ I enjoy transforming ideas into real digital experiences using modern JavaScript
 </p>
 
 ##  Socials:
-<p align="left" style="display:flex; gap:15px; align-items:center;">
+<p align="left"  style="display:flex; gap:15px; align-items:center;>
 
-<a href="https://github.com/toufiq178" target="_blank" style="display:inline-block; border-radius:50%; padding:8px; transition:0.3s; background-color:#fff;">
-  <img src="https://skillicons.dev/icons?i=github" height="40" style="transition: transform 0.3s;"/>
+<a href="https://www.linkedin.com/in/toufiq-alahe-dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="https://www.linkedin.com/in/toufiq-alahe-dev/" target="_blank" style="display:inline-block; border-radius:50%; padding:8px; transition:0.3s; background-color:#0A66C2;">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="transition: transform 0.3s;"/>
+<a href="mailto:toufiqalahe.dev@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
-<a href="https://www.facebook.com/toufiq17878" target="_blank" style="display:inline-block; border-radius:50%; padding:8px; transition:0.3s; background-color:#1877F2;">
-  <img src="https://cdn.simpleicons.org/facebook/ffffff" height="40" style="transition: transform 0.3s;"/>
+<a href="https://github.com/toufiq178" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
-<a href="mailto:toufiqalahe.dev@gmail.com" style="display:inline-block; border-radius:50%; padding:8px; transition:0.3s; background-color:#D14836;">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" style="transition: transform 0.3s;"/>
+<a href="https://www.facebook.com/toufiq17878" target="_blank">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" height="40"/>
 </a>
+
 
 </p>
-
-<style>
-p a:hover img {
-  transform: scale(1.2);
-}
-p a:hover {
-  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
-}
-</style>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
