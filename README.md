@@ -26,23 +26,15 @@ I enjoy transforming ideas into real digital experiences using modern JavaScript
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=html" height="50"/>
-
 <img src="https://skillicons.dev/icons?i=css" height="50"/>
-
 <img src="https://skillicons.dev/icons?i=js" height="50"/>
-
 <img src="https://skillicons.dev/icons?i=react" height="50"/>
-
+<img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
 <img src="https://skillicons.dev/icons?i=git" height="50"/>
-
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
-
 <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
 
 </p>
-
-##  Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/toufiq-alahe-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:toufiqalahe.dev@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/toufiq17878)
 
 
 
@@ -58,4 +50,24 @@ I enjoy transforming ideas into real digital experiences using modern JavaScript
 <img src="https://streak-stats.demolab.com/?user=toufiq178&theme=tokyonight"/>
 </p>
 
+##  Socials:
+<p align="left">
+
+<a href="https://github.com/toufiq178" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/toufiq-alahe-dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://www.facebook.com/toufiq17878" target="_blank">
+<img src="https://skillicons.dev/icons?i=facebook" height="40"/>
+</a>
+
+<a href="mailto:toufiqalahe.dev@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
