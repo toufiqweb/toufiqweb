@@ -10,7 +10,7 @@ Building clean, responsive, and user-focused web experiences.
 
 ## 🚀 About Me
 
-I'm a passionate **Frontend Web Developer** focused on building modern, scalable, and user-friendly web applications.  
+I'm a passionate **Web Developer** focused on building modern, scalable, and user-friendly web applications.  
 I enjoy transforming ideas into real digital experiences using modern JavaScript technologies.
 
 - 🌱 Currently learning **Advanced React Patterns & Modern JavaScript**
