@@ -80,4 +80,7 @@ I enjoy transforming ideas into real digital experiences using modern JavaScript
 
 </p>
 ---
+<p align="center">
+Building clean, responsive, and user-focused web experiences.
+</p>
 Built with passion by a Web Developer
