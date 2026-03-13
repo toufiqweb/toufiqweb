@@ -23,15 +23,10 @@ I enjoy transforming ideas into real digital experiences using modern JavaScript
 - ⚡ Fun fact: I enjoy building projects that solve real-world problems.
 
 ## Skills
-<h3>Here are some of my core technical and professional skills: <p>
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=500&width=600&lines=React.js;Web+Developer;JavaScript+(ES6+);;DaisyUI;DOM+Manipulation;REST+APIs;Creativity+Skills;Leadership;HTML;Web+Development;Teamwork+and+Collaboration;Creativity;Time+Management;Teamwork;Critical+Thinking;Adaptability;Communication;HTML5;Cascading+Style+Sheets+(CSS);Tailwind+CSS;Responsive+Web+Design&color=FFFFFF" alt="Typing Skills Animation"/>
 </p></h3> 
-<span style="display:inline-block; vertical-align: middle;">
-  <strong>React.js Skill:</strong>
-</span>
-<span style="display:inline-block; vertical-align: middle;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=500&width=500&lines=Web+Developer;JavaScript+(ES6+);DaisyUI;DOM+Manipulation;REST+APIs;Creativity+Skills;Leadership;HTML;Web+Development;Teamwork+and+Collaboration;Creativity;Time+Management;Teamwork;Critical+Thinking;Adaptability;Communication;HTML5;Cascading+Style+Sheets+(CSS);Tailwind+CSS;Responsive+Web+Design&color=FFFFFF" alt="Typing Skills Animation"/>
-</span>
+
 
 ## 🧰 Tech Stack
 
