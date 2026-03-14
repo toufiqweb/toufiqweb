@@ -24,7 +24,7 @@ I enjoy transforming ideas into real digital experiences using modern JavaScript
 
 ## Skills
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=300&width=600&lines=React.js;Web+Developer;JavaScript+(ES6+);;DaisyUI;DOM+Manipulation;REST+APIs;Creativity+Skills;Leadership;HTML;Web+Development;Teamwork+and+Collaboration;Creativity;Time+Management;Teamwork;Critical+Thinking;Adaptability;Communication;HTML5;Cascading+Style+Sheets+(CSS);Tailwind+CSS;Responsive+Web+Design&color=4169E1" alt="Typing Skills Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=300&width=600&lines=React.js;Web+Developer;JavaScript+(ES6+);DaisyUI;DOM+Manipulation;REST+APIs;Creativity+Skills;Leadership;HTML;Web+Development;Teamwork+and+Collaboration;Creativity;Time+Management;Teamwork;Critical+Thinking;Adaptability;Communication;HTML5;Cascading+Style+Sheets+(CSS);Tailwind+CSS;Responsive+Web+Design&color=F7DF1E" alt="Typing Skills Animation"/>
 </p></h3> 
 
 
