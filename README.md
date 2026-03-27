@@ -70,7 +70,7 @@ I enjoy transforming ideas into real digital experiences using modern JavaScript
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
-<a href="[https://github.com/toufiq178](https://github.com/toufiqweb)" target="_blank">
+<a href="https://github.com/toufiqweb" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
