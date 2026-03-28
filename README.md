@@ -58,6 +58,21 @@ I enjoy transforming ideas into real digital experiences using modern JavaScript
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=toufiqweb&theme=tokyonight"/>
 </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=toufiqweb&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=toufiqweb&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+  />
+</p>
 
 ##  Socials:
 <p align="left" >
