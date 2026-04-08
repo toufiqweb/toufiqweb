@@ -1,5 +1,5 @@
 
-![Banner](cover.png)
+![Banner](banner.jpeg)
 
 <h1 align="center">Hi 👋, I'm Toufiq Alahe  </h1>
 
