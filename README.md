@@ -8,15 +8,14 @@
 <p align="center">
 Building sleek, user-focused web experiences with modern, scalable technology.
 </p>
-<p  align="center">
 
-<a  href="toufiqalahe.dev@gmail.com"><img  src="https://img.shields.io/badge/Email-%23ff6e18.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<div  align="center">
 
-<a  href="https://www.linkedin.com/in/toufiq-alahe-dev/"  target="_blank"><img  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a  href="https://www.linkedin.com/in/toufiq-alahe-dev/"><img  src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"  alt="LinkedIn Badge"/></a>
+<a  href="https://github.com/toufiqweb"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/></a>
+<a  href="mailto:toufiqalahe.dev@gmail.com"><img  src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"  alt="Gmail Badge"/></a>
 
-<a  href="https://github.com/toufiqweb"  target="_blank"><img  src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</p>
+</div>
 
 <h2  align="center"> About Me</h2>
 
@@ -28,7 +27,7 @@ Building sleek, user-focused web experiences with modern, scalable technology.
 </div>
 
 <hr/>
-
+<img align="right" height="250" width="365" alt="" src="./gifs/10_coding_dribbble.gif" />
 ### Talking about Personal Stuff:
 
   
