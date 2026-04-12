@@ -59,17 +59,19 @@ Building sleek, user-focused web experiences with modern, scalable technology.
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=300&width=600&lines=React.js;Web+Developer;JavaScript+(ES6+);DaisyUI;DOM+Manipulation;REST+APIs;Creativity+Skills;Leadership;HTML;Web+Development;Teamwork+and+Collaboration;Creativity;Time+Management;Teamwork;Critical+Thinking;Adaptability;Communication;HTML5;Cascading+Style+Sheets+(CSS);Tailwind+CSS;Responsive+Web+Design&color=F7DF1E" alt="Typing Skills Animation"/>
 
   ```javascript
-const toufiqweb= {
+
+const toufiqweb = {
   pronouns: "he/him",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Tailwind CSS"],
-  tools: ["React", "DaisyUI", "Next", "Git", "Vercel", "Figma", "Netlify"],
-  architecture: ["Responsive Web Design", "design system pattern"],
-  skills: ["Teamwork","Adaptability", "Critical Thinking","Communication","Time Management"],
+  language: ["JavaScript", "HTML", "CSS" ],
+  frameworks & libraries : ["React", "Next.js","Tailwind CSS","DaisyUI"],
+  tools: ["Git", "Vercel", "Figma", "Netlify","Pixso","GitHub","vscode"],
+  architecture: ["Responsive Web Design", "Design System Pattern"],
+  skills: ["Teamwork","Adaptability","Critical Thinking","Communication","Time Management"],
   techCommunities: {
     speaker: "English",
   },
   challenge: "I am doing the #100DaysOfCode challenge."
-}
+};
 ```
 
 
