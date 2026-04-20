@@ -63,7 +63,7 @@ Building sleek, user-focused web experiences with modern, scalable technology.
 const toufiqweb = {
   pronouns: "he/him",
   language: ["JavaScript", "HTML", "CSS" ],
-  frameworks & libraries : ["React", "Next.js","Tailwind CSS","DaisyUI"],
+  frameworks & libraries : ["React", "Next.js","Tailwind CSS","DaisyUI","Hero-UI"],
   tools: ["Git", "Vercel", "Figma", "Netlify","Pixso","GitHub","vscode"],
   architecture: ["Responsive Web Design", "Design System Pattern"],
   skills: ["Teamwork","Adaptability","Critical Thinking","Communication","Time Management"],
