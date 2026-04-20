@@ -68,7 +68,7 @@ const toufiqweb = {
   architecture: ["Responsive Web Design", "Design System Pattern"],
   skills: ["Teamwork","Adaptability","Critical Thinking","Communication","Time Management"],
   techCommunities: {
-    speaker: "English",
+    speaker: ["English", "Bangla" , "Hindi"]
   },
   challenge: "I am doing the #100DaysOfCode challenge."
 };
