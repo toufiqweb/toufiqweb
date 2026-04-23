@@ -46,31 +46,33 @@ Building sleek, user-focused web experiences with modern, scalable technology.
 
 
 
+##  Tech Stack & Tools
 
+### ⚙️ Languages & Frameworks
 
-<h2  align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs,mongodb,nodejs,expressjs" />
+</p>
 
-<p>
+### 🎨 UI/UX & Productivity Tools
 
-<img  src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs,figma,git,github,vscode,vercel,netlify" />
-
+<p align="left">
+  <img  src="https://skillicons.dev/icons?i=figma,git,github,vscode,vercel,netlify" />
 </p>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=300&width=600&lines=React.js;Web+Developer;JavaScript+(ES6+);DaisyUI;DOM+Manipulation;REST+APIs;Creativity+Skills;Leadership;HTML;Web+Development;Teamwork+and+Collaboration;Creativity;Time+Management;Teamwork;Critical+Thinking;Adaptability;Communication;HTML5;Cascading+Style+Sheets+(CSS);Tailwind+CSS;Responsive+Web+Design&color=F7DF1E" alt="Typing Skills Animation"/>
 
-  ```javascript
-
+ ```javascript
 const toufiqweb = {
   pronouns: "he/him",
-  language: ["JavaScript", "HTML", "CSS" ],
-  frameworks & libraries : ["React", "Next.js","Tailwind CSS","DaisyUI","Hero-UI"],
-  tools: ["Git", "Vercel", "Figma", "Netlify","Pixso","GitHub","vscode"],
-  architecture: ["Responsive Web Design", "Design System Pattern"],
-  skills: ["Teamwork","Adaptability","Critical Thinking","Communication","Time Management"],
-  techCommunities: {
-    speaker: ["English", "Bangla" , "Hindi"]
-  },
-  challenge: "I am doing the #100DaysOfCode challenge."
+  languages: ["JavaScript", "HTML", "CSS"],
+  frameworksAndLibraries: [ "React", "Next.js","Tailwind CSS","DaisyUI","Hero UI","Better Auth"],
+  database: ["MongoDB"],
+  tools: ["Git", "GitHub","VS Code","Vercel","Netlify","Figma","Pixso"],
+  architecture: ["Responsive Web Design","Design System Pattern","Authentication & Authorization Flow"],
+  skills: ["Teamwork","Adaptability","Critical Thinking","Communication", "Time Management" ],
+  languagesSpoken: ["English","Bangla", "Hindi"],
+  challenge: "Currently doing the #100DaysOfCode challenge 🚀"
 };
 ```
 
