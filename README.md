@@ -22,27 +22,25 @@ Building sleek, user-focused web experiences with modern, scalable technology.
 
 <div  align="center">
 
-<strong>I’m a web developer with expertise in React, JavaScript, and Next.js. I craft modern, scalable web applications, combining technical precision with creativity. I’m passionate about solving real-world problems through elegant, user-centered design, and I’m always optimizing for performance and user experience.</strong>
+<strong>>I’m a MERN Stack Developer with a strong, deep-rooted expertise in Frontend Engineering. My passion lies in bridging the gap between high-fidelity UI designs and robust full-stack integration. Utilizing React, Next.js, and Tailwind CSS, I create immersive user experiences while backing them up with solid Node.js, Express, and MongoDB architectures.</strong>
 
 </div>
 
 <hr/>
 <img align="right" height="250" width="365" alt="" src="./gifs/10_coding_dribbble.gif" />
-### Talking about Personal Stuff:
 
-  
+### 🛠️ What I'm Up To:
 
-- 🛠 &nbsp; I’m currently working with **JavaScript**, **React**, and **Next.js** to build dynamic web applications. 
-- 🚀 &nbsp; I’m currently exploring advanced concepts in **Next.js**, as well as diving into new fields .
-- 📫 &nbsp; Reach me out: <strong>toufiqalahe.dev@gmail.com.</strong>
+- 🎨 &nbsp; Engineering highly interactive, pixel-perfect frontends using **React**, **Next.js**, and **Tailwind CSS**.
+- ⚙️ &nbsp; Developing reliable backend APIs and secure authentication structures to power client-side apps.
+- 🚀 &nbsp; Currently sharpening full-stack performance optimization and deep-diving into state management.
+- 📬 &nbsp; Drop me a line at: **toufiqalahe.dev@gmail.com**
 
-  
+### 🌟 My Core Focus:
 
-### My Absolute Favorites:
-
-- &nbsp; Tackling complex challenges, and continuously expanding my technical skills.
-- &nbsp; collaborating on innovative projects and participating in tech communities.
-- &nbsp; I enjoy applying my knowledge to create solutions that make a real-world impact.
+- &nbsp; Bringing complex UI animations and interactive dashboards to life without sacrificing loading speeds.
+- &nbsp; Creating seamless data fetching flows and structured API routing between client and server.
+- &nbsp; Collaborating on modern design systems and contributing to forward-thinking tech teams.
 
 
 
