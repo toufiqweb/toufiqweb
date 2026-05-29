@@ -22,7 +22,7 @@ Building sleek, user-focused web experiences with modern, scalable technology.
 
 <div  align="center">
 
-<strong>>I’m a MERN Stack Developer with a strong, deep-rooted expertise in Frontend Engineering. My passion lies in bridging the gap between high-fidelity UI designs and robust full-stack integration. Utilizing React, Next.js, and Tailwind CSS, I create immersive user experiences while backing them up with solid Node.js, Express, and MongoDB architectures.</strong>
+<strong>I’m a MERN Stack Developer with a strong, deep-rooted expertise in Frontend Engineering. My passion lies in bridging the gap between high-fidelity UI designs and robust full-stack integration. Utilizing React, Next.js, and Tailwind CSS, I create immersive user experiences while backing them up with solid Node.js, Express, and MongoDB architectures.</strong>
 
 </div>
 
