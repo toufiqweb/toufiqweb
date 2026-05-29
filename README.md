@@ -35,6 +35,7 @@ Building sleek, user-focused web experiences with modern, scalable technology.
 - ⚙️ &nbsp; Developing reliable backend APIs and secure authentication structures to power client-side apps.
 - 🚀 &nbsp; Currently sharpening full-stack performance optimization and deep-diving into state management.
 - 📬 &nbsp; Drop me a line at: **toufiqalahe.dev@gmail.com**
+- 📬 &nbsp; Profolio: **[toufiqweb](https://toufiq-portfolio.vercel.app)**
 
 ### 🌟 My Core Focus:
 
