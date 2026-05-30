@@ -29,20 +29,22 @@ Solving real-world problems through clean code, intuitive design, and scalable a
 <hr/>
 <img align="right" height="250" width="365" alt="" src="./gifs/10_coding_dribbble.gif" />
 
-### 🛠️ What I'm Up To:
+### 🛠️ What I'm Up To
 
-- 🎨 &nbsp; Engineering highly interactive, pixel-perfect frontends using **React**, **Next.js**, and **Tailwind CSS**.
-- ⚙️ &nbsp; Developing reliable backend APIs and secure authentication structures to power client-side apps.
-- 🚀 &nbsp; Currently sharpening full-stack performance optimization and deep-diving into state management.
-- 📬 &nbsp; Drop me a line at: **toufiqalahe.dev@gmail.com**
-- 📬 &nbsp; Profolio: **[toufiqweb](https://toufiq-portfolio.vercel.app)**
+* 🚀 Building full-stack web applications using **MongoDB**, **Express.js**, **React.js**, **Next.js**, and **Node.js**.
+* 🎨 Creating modern, responsive, and user-focused interfaces with **Tailwind CSS** and component-based architectures.
+* 🔐 Implementing secure authentication, authorization, and RESTful API integrations.
+* 📚 Continuously learning advanced full-stack development concepts, performance optimization, and scalable system design.
+* 💻 Actively working on personal projects and improving my development skills through the **#100DaysOfCode** challenge.
+* 📬 Reach me at: **[toufiqalahe.dev@gmail.com](mailto:toufiqalahe.dev@gmail.com)**
+* 🌐 Portfolio: **[toufiqweb](https://toufiq-portfolio.vercel.app)**
 
 ### 🌟 My Core Focus:
 
-- &nbsp; Bringing complex UI animations and interactive dashboards to life without sacrificing loading speeds.
-- &nbsp; Creating seamless data fetching flows and structured API routing between client and server.
-- &nbsp; Collaborating on modern design systems and contributing to forward-thinking tech teams.
-
+- &nbsp; Building scalable and maintainable web solutions.
+- &nbsp; Creating intuitive user experiences with modern UI practices.
+- &nbsp; Optimizing application performance and accessibility.
+- &nbsp; Following clean architecture and development best practices.
 
 
 ##  Tech Stack & Tools
