@@ -3,10 +3,10 @@
 
 <h1 align="center">Hi 👋, I'm Toufiq Alahe  </h1>
 
-<h3 align="center"> Web Developer | Designing Scalable Systems | Dynamic Web Applications..</h3>
+<h3 align="center"> MERN Stack Developer | Building Scalable Web Applications | Clean & Efficient Code</h3>
 
 <p align="center">
-Building sleek, user-focused web experiences with modern, scalable technology.
+Solving real-world problems through clean code, intuitive design, and scalable architecture.
 </p>
 
 <div  align="center">
@@ -22,7 +22,7 @@ Building sleek, user-focused web experiences with modern, scalable technology.
 
 <div  align="center">
 
-<strong>I’m a MERN Stack Developer with a strong, deep-rooted expertise in Frontend Engineering. My passion lies in bridging the gap between high-fidelity UI designs and robust full-stack integration. Utilizing React, Next.js, and Tailwind CSS, I create immersive user experiences while backing them up with solid Node.js, Express, and MongoDB architectures.</strong>
+<strong>I’m a MERN Stack Developer focused on building fast, scalable, and user-friendly web applications. With expertise in MongoDB, Express.js, React.js, Next.js, and Node.js, I develop complete full-stack solutions that deliver both great user experiences and reliable performance. I’m solving real-world problems through code and continuously expanding my knowledge of modern web technologies.</strong>
 
 </div>
 
