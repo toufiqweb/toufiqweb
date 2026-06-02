@@ -6,7 +6,7 @@
 <h3 align="center"> MERN Stack Developer | Building Scalable Web Applications | Clean & Efficient Code</h3>
 
 <p align="center">
-Solving real-world problems through clean code, intuitive design, and scalable architecture.
+Architecting high-performance web solutions and intuitive user experiences to solve complex, real-world challenges.
 </p>
 
 <div  align="center">
