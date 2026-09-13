@@ -52,7 +52,7 @@ Architecting high-performance web solutions and intuitive user experiences to so
 ### ⚙️ Languages & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs,mongodb,nodejs,expressjs" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,mongodb,nodejs,expressjs" />
 </p>
 
 ### 🎨 UI/UX & Productivity Tools
