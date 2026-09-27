@@ -22,7 +22,7 @@ Architecting high-performance web solutions and intuitive user experiences to so
 
 <div  align="center">
 
-<strong>I’m a Full Stack Developer focused on building fast, scalable, and user-friendly web applications. With expertise in MongoDB, Express.js, React.js, Next.js, and Node.js, I develop complete full-stack solutions that deliver both great user experiences and reliable performance. I’m solving real-world problems through code and continuously expanding my knowledge of modern web technologies.</strong>
+<strong>I’m a Full Stack Developer focused on building modern, responsive, and scalable web applications. I work with MongoDB, Express.js, React.js, Next.js, and Node.js to create complete web solutions with clean code, smooth user experiences, and reliable performance. I enjoy solving real-world problems through code and continuously improving my skills with modern web technologies.</strong>
 
 </div>
 
