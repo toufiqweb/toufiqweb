@@ -68,7 +68,7 @@ const toufiqweb = {
   pronouns: "he/him",
   languages: ["JavaScript", "TypeScript", "HTML", "CSS"],
   frameworksAndLibraries: [ "Preact", "React", "Next.js","Tailwind CSS","DaisyUI","Hero UI","Better Auth"],
-  database: ["MongoDB"],
+  database: ["MongoDB", "Mongoose"],
   tools: ["Git", "GitHub","VS Code","Vercel","Netlify","Figma","Pixso"],
   architecture: ["Responsive Web Design","Design System Pattern","Authentication & Authorization Flow"],
   skills: ["Teamwork","Adaptability","Critical Thinking","Communication", "Time Management" ],
